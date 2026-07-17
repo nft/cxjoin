@@ -1,6 +1,6 @@
 {
   "name": "cxjoin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight utility for conditionally joining classNames together",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -25,6 +25,14 @@
     "build": "tsup index.ts --format cjs,esm --dts --clean",
     "test": "bun test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nft/cxjoin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nft/cxjoin/issues"
+  },
+  "homepage": "https://github.com/nft/cxjoin#readme",
   "keywords": [
     "classnames",
     "clsx",
