@@ -1,5 +1,10 @@
 # cxjoin
 
+[![npm version](https://img.shields.io/npm/v/cxjoin.svg?style=flat-square)](https://www.npmjs.com/package/cxjoin)
+[![npm downloads](https://img.shields.io/npm/dm/cxjoin.svg?style=flat-square)](https://www.npmjs.com/package/cxjoin)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/cxjoin?style=flat-square)](https://bundlephobia.com/package/cxjoin)
+[![license](https://img.shields.io/npm/l/cxjoin.svg?style=flat-square)](https://github.com/nft/cxjoin/blob/main/LICENSE)
+
 A lightweight, zero-dependency utility for conditionally joining class names together. It supports string, number, array, and object arguments, and serves as a highly optimized, fully-typed replacement for `classnames` or `clsx`.
 
 ## Features
